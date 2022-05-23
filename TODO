@@ -1,0 +1,26 @@
+TODO LIST:
+
+ - Manage contacts.ini (on init/reload)
+ - Create admin escope
+ - MySTModuleExternal implements timeout
+ - show internal command:
+	- show environment
+	- show escope
+
+ - Outputs
+	- XML
+
+External modules
+	- CPU
+	- Memória
+	- Temperatura
+	- Dmesg
+	- Tail de logs
+	- Controle do apache (stop, start, restart)
+	- Controle do squid (stop, start, restart e cleanup)
+	- Uptime
+	- ps / top
+
+Deployment:
+	- .rpm
+	- .deb
